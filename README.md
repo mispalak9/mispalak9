@@ -18,23 +18,32 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Palak Raj Mishra</h1>
 <h3 align="center">A passionate frontend and Backend developer.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20240506/ourmid/pngtree-cute-cartoon-girl-doing-office-work-on-transparent-background-png-image_12375933.png">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mispalak9&label=Profile%20views&color=0e75b6&style=flat" alt="mispalak9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mispalak9" alt="mispalak9" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/palakmi80609716" target="blank"><img src="https://img.shields.io/twitter/follow/palakmi80609716?logo=twitter&style=for-the-badge" alt="palakmi80609716" /></a> </p>
 
+- 🌱 I’m currently learning **React, Node.js, Appwrite, and exploring AWS.**
+
+- 👯 I’m looking to collaborate on [Open Source Full-Stack Projects](https://github.com/mispalak9)
+
+- 🤝 I’m looking for help with [Advanced MERN Stack Projects](https://github.com/mispalak9)
+
 - 👨‍💻 All of my projects are available at [https://palakdev.netlify.app/](https://palakdev.netlify.app/)
 
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Express, MERN stack, AWS, Pega, Appwrite, front-end development, back-end development, API integration, cloud computing, or IoT projects.**
+
 - 📫 How to reach me **palakm130@gmail.com**
+
+- ⚡ Fun fact **I think I am funny 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/palakmi80609716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="palakmi80609716" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/palak-mishra-494a2b1b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/palak-mishra-494a2b1b9/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/palakm130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="palakm130" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/palakmishra9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palakmishra9" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/palakm130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="palakm130" height="30" width="40" /></a>
 </p>
 
@@ -49,3 +58,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mispalak9&show_icons=true&locale=en" alt="mispalak9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mispalak9&" alt="mispalak9" /></p>
+
