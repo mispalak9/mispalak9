@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Palak Raj Mishra</h1>
 <h3 align="center">A passionate frontend and Backend developer.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20240501/ourlarge/pngtree-code-and-coffee-the-mind-of-a-determined-professional-png-image_12350632.png">
+<img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20240506/ourmid/pngtree-cute-cartoon-girl-doing-office-work-on-transparent-background-png-image_12375933.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mispalak9&label=Profile%20views&color=0e75b6&style=flat" alt="mispalak9" /> </p>
 
